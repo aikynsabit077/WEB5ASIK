@@ -33,4 +33,4 @@ During this assignment, I practiced JavaScript objects, arithmetic operations, e
 
 ## Link to Website
 
-[(Add your GitHub Pages link here)](https://aikynsabit077.github.io/WEB5ASIK/)
+(https://aikynsabit077.github.io/WEB5ASIK/)
